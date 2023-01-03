@@ -213,7 +213,7 @@
     },
     "L2(CDD)": {
         "error": 0.0011348058029966629,
-        "fit": "Weighted Mean",
+        "fit": "Bracketing Interpolate",
         "reference_data": {
             "es": [
                 0.0012523726332693567,
