@@ -1,0 +1,39 @@
+{
+    "beam_diameter": "5.0",
+    "cleanup_duration": 45.0,
+    "commit": "3e8d3eb07c41f942b268c894d21880a328958019",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0168",
+    "measured_response": "KD3JTgAAAADs7Bs/AAD6RPHuJkAAAPpEzoeTQAAA+kTRu9NAAAD6RJcECkEAAPpEyjYqQQAA+kT8MkpBAAD6RONYakEAAPpEgiuFQQAA+kQKM5VBAAD6RDQxpUEAAPpEuzG1QQAA+kQCM8VBAAD6RCo61UEAAPpEL0flQQAA+kQnoPtBAAD6RNDWBUIAAPpEQdsNQgAA+kRI2hVCAAD6RALhHUIAAPpECOAlQgAA+kQp5i1CAAD6RDzsNUIAAPpEPu89QgAA+kSB8EVCAAD6RFD7TUIAAPpEoPtVQgAA+kQX/V1CAAD6RAn+ZUIAAPpErgJuQgAA+kSNCXZCAAD6RDYLfkIAAPpEoAiDQgAA+kTMC4dCAAD6RGwLi0IAAPpEAQ2PQgAA+kRWDZNCAAD6ROAQl0IAAPpELBKbQgAA+kSaFZ9CAAD6RMMbo0IAAPpEGR6nQgAA+kSlHatCAAD6RD8dr0IAAPpEER2zQgAA+kQ=",
+    "pattern": "diamond_37hole_3mmbeam.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 8,
+            "x": 9.6012,
+            "y": 9.6012,
+            "z": 15.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "KD3JTgAAAADs7Bs/AAAAAPHuJkAAAAAAzoeTQAAAAADRu9NAAAAAAJcECkEAAAAAyjYqQQAAAAD8MkpBjVWIQeNYakHemIlBgiuFQeVFi0EKM5VBn/CMQTQxpUEbmY5BuzG1QWg/kEECM8VBaD+QQSo61UFoP5BBL0flQWg/kEEnoPtBaD+QQdDWBUJoP5BBQdsNQmg/kEFI2hVCaD+QQQLhHUJoP5BBCOAlQmg/kEEp5i1CaD+QQTzsNUJoP5BBPu89Qmg/kEGB8EVCaD+QQVD7TUJoP5BBoPtVQmg/kEEX/V1CaD+QQQn+ZUJoP5BBrgJuQmg/kEGNCXZCaD+QQTYLfkJoP5BBoAiDQmg/kEHMC4dCaD+QQWwLi0JoP5BBAQ2PQmg/kEFWDZNCaD+QQeAQl0JoP5BBLBKbQmg/kEGaFZ9CaD+QQcMbo0JoP5BBGR6nQmg/kEGlHatCaD+QQT8dr0JoP5BBER2zQmg/kEE=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0168/71108-01A-001.avi"
+    ],
+    "weight": 11.2
+}
