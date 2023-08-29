@@ -76,14 +76,22 @@
         "value": 0.018513019445041815
     },
     "L2(CDD)": {
-        "error": 6.599315200864717e-06,
+        "error": 6.599315077351727e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 10
+            "std_devs": 10,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "value": 8.914554344073867e-06
+        "fn": 60,
+        "include_baseline_error": false,
+        "n": 60,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 8.914554200600833e-06
     }
 }
