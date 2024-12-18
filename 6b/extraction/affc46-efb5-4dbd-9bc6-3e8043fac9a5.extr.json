@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "0.3",
+    "cleanup_duration": 15.0,
+    "commit": "09789a018483336f27a0bd00c56f6afdd30185c3",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 1.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "784-hole",
+    "load_name": "C0439",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 632,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2024-12-08T03:29:06.511484",
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
